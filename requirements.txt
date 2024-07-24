@@ -1,0 +1,6 @@
+PyTorch
+Transformers
+Diffusers
+Matplotlib
+ipywidgets
+IPython
